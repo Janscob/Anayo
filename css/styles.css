@@ -1,0 +1,105 @@
+body{
+    margin:0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    margin:50px auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+h2{
+    color: #66BFBF;
+    font-weight:normal;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color:#11999E;
+
+}
+a{
+    color:#11999E;
+}
+.top_container{
+    background-color: #b9fffc;
+    position: relative;
+}
+.profile{
+    width:50%;
+    margin:100px auto 100px auto;
+}
+.profile-pic{
+    border-radius: 100%;
+    width:300px;
+    height:300px;
+}
+.skill-1{
+    border-radius: 100%;
+    width:25%;
+    float:left;
+    margin-right: 30px;
+}
+.skill-2{
+    border-radius: 100%;
+    width:45%;
+    float:right;
+    margin-left: 30px;
+}
+.bottom-cloud{
+    position:absolute;
+}
+.top-cloud{
+    position:relative;
+    padding-top:80px;
+    left:220px;
+}
+.skill-row{
+    width:50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height:2;
+}
+.skill-text{
+    margin-left: 30px;
+}
+.pro{
+    margin-left: 30px;
+}
+hr{
+	background-color:#EAF6F6;
+	width:5%;
+	border-style:none;
+	border-bottom-style:dotted;
+	border-width:5px;
+    border-color:grey;
+    margin:50px auto;
+}
+.contact-me{
+    margin-top:30px;
+    margin-bottom:60px;
+    
+}
+.btn{
+   color:white;
+   background-color: #66BFBF;
+   text-decoration: none;
+   border-radius: 10px;
+   padding:5px;
+   position:relative;
+   top:30px;
+}
+.bottom-container{
+    line-height:3;
+    background-color: #66BFBF;
+}
+.footer-link{
+    text-decoration: none;
+    margin:15px
+}
+.btm-p{
+    color:#EAF6F6;
+}
